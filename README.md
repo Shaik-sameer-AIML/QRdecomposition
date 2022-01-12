@@ -64,9 +64,9 @@ QR_Decomposition(a)
 ```
 
 ## Output
-```
 
-```
+![output](https://github.com/Shaik-sameer-AIML/QRdecomposition/blob/main/qr%20decomp.JPG?raw=true)
+
 
 ## Result
 Thus the QR decomposition algorithm using the Gram-Schmidt process is written and verified the result.
